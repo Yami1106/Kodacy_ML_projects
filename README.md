@@ -1,42 +1,33 @@
 <div align="center">
 
-<pre>
-╔════════════════════════════╗
-║     💻  Kodacy_ML_projects  💻     ║
-╚════════════════════════════╝
-</pre>
+# ML Projects — Kodacy
 
-## Project Repository
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
-
+*A collection of machine learning projects and experiments completed through Kodacy.*
 
 </div>
 
 ---
 
-## About
+## Contents
 
-A Python project repository. See the source code for details.
+Hands-on ML implementations covering:
 
----
-
-## Features
-
-- See source code for details
-
----
-
-## Tech Stack
-
-_See source_
+- Supervised learning (regression, classification)
+- Model evaluation and validation techniques
+- Feature engineering and data preprocessing
+- Visualisation and result interpretation
 
 ---
 
-## Author
+## Tech stack
 
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`Python` · `Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter Notebook`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
